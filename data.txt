@@ -1,0 +1,14 @@
+D ///
+D /desktop/
+D /desktop/battlebears.exe/
+D /desktop/Important/
+F /desktop/Important/salary.txt/
+D /desktop/Important/I hope/
+D /desktop/please/
+F /desktop/AmIDone?/
+D /documents/
+F /documents/something/
+D /documents/outofnames/
+D /photos/
+D /photos/pic1.jpeg/
+F /photos/pic2.jpeg/
